@@ -438,7 +438,8 @@
             "compatible": true,
             "keyword_path": "porcupine.ppn",
             "sensitivity": 0.5,
-            "udp_site_info": {}
+            "udp_site_info": {},
+            "access_key": ""
         },
         "raven": {
             "compatible": true,
